@@ -1,0 +1,52 @@
+Society Name: Film & Entertainment Society
+
+Submission Date:
+1. Prototype Demo Week 7 (Practical)
+2. System Submission and Presentation Week 12 (Practical)
+
+Requirement:
+1. using client-side and server-side technology for a TAR UMT society.
+2. web application implements the society and eventmanagement system.
+
+The web application should be able to capture the following information about:
+- Events or Activities (such as competition, workshop, talk, etc.)
+- Event Volunteers / Participants
+- Buy Ticket/ free enrollment
+
+
+The web application should provide the features as follows:
+
+Administrator 
+1. add new event and related activities
+2. edit existing events and activities
+3. update seat availability
+4. Manage online ticketing/booking. (View and manage booking.)
+5. view participants
+
+Participants
+1. Register as member and log in.
+2. Browse for events.
+3. Search for events
+4. Buy ticket / Join event.
+5. Complete booking (check out)
+6. View ticket / booked event records. (view booking’s status)
+
+Info:
+1. MariaDB / MySQL
+2. An open-source database tool.
+3. CRUD (Create, Read, Update and Delete) operations to the database table. 
+4. The student is encouraged to implement the web application using various web technologies.
+5. The web application must be supported by all devices and browsers. Each web page should be displayed properly in different screen sizes.
+
+Database:
+1. Participants
+2. Events
+3. Event_Details
+4. EventParticipants
+5. Tickets
+6. Bookings
+7. Transactions
+8. Administrator
+9. Reviews
+10. Favorites
+11. Payments
